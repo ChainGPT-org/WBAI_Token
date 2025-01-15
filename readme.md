@@ -5,6 +5,8 @@
 - <b>Token Symbol:</b> WBAI
 - <b>Total Supply:</b> 1,000,000,000 (1 billion)
 - <b>Decimals:</b> 18
+-
+Contract Address: 0x635d44F246156ed1080CB470877256c847673f19
 
 ### Solidity
 - <b>License:</b> `SPDX-License-Identifier: MIT`
