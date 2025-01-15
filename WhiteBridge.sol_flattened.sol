@@ -658,7 +658,7 @@ abstract contract ERC20Burnable is Context, ERC20 {
     }
 }
 
-// File: ChainGPT.sol
+// File: WhiteBridge.sol
 
 
 pragma solidity ^0.8.9;
@@ -666,8 +666,8 @@ pragma solidity ^0.8.9;
 
 
 
-contract ChainGPT is ERC20, ERC20Burnable, Ownable {
-    constructor() ERC20("ChainGPT", "CGPT") {
+contract WhiteBridge is ERC20, ERC20Burnable, Ownable {
+    constructor() ERC20("WhiteBridge", "WBAI") {
         _mint(msg.sender, 1000000000 * 10 ** decimals());
     }
 }
